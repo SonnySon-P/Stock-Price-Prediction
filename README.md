@@ -1,4 +1,4 @@
-# Stock Price Prediction
+# Stock Price Prediction based on AI
 
 **動機：** 起因是為了與友人一同研究預測股票趨勢變化，但在分析整理資料過程，需要採用程式語言、機器學習等技術。因此，開闢一個空間存放過往學習和開發的資訊。
 
